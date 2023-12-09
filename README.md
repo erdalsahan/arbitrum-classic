@@ -2,7 +2,7 @@
 
 # Arbitrum Classic Monorepo
 
-This repo represents the old "classic" Arbitrum tech stack; Arbitrum One was upgraded to use the Nitro tech in August of 2022. 
+ This repo represents the old "classic" Arbitrum tech stack; Arbitrum One was upgraded to use the Nitro tech in August of 2022. 
 
 For the current Arbitrum Nitro codebase, see [Nitro](https://github.com/OffchainLabs/nitro).
 
